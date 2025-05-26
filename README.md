@@ -9,7 +9,7 @@ Welcome to the official portfolio project of **Gayathiri Balachandar** – a cos
 
 ## 💫 Overview
 
-This is a fully responsive, animated portfolio website built to showcase my personal and professional profile in a visually engaging manner. With a **space-themed design**, glowing animations, and subtle interactivity, it creates an immersive experience for visitors.
+This is a fully responsive, my own customized animated portfolio website built to showcase my personal and professional profile in a visually engaging manner. With a **space-themed design**, glowing animations, and subtle interactivity, it creates an immersive experience for visitors.
 
 ---
 
@@ -48,8 +48,8 @@ I’m Gayathiri, an aspiring software developer with a passion for creative UI/U
 
 ## 📬 Contact
 
-📧 Email: [your-email@example.com]  
-🔗 LinkedIn: [Your LinkedIn URL]  
+📧 Email: [gayathiribala15@gmail.com]  
+🔗 LinkedIn: [https://www.linkedin.com/in/gayathiri-balachandar-51a710296/]  
 
 ---
 
