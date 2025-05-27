@@ -2,7 +2,7 @@
 
 Welcome to the official portfolio project of **Gayathiri Balachandar** – a cosmic journey through my skills, projects, and personality, uniquely presented in a space-themed interface.
 
-🚀 **[Live Site](https://your-live-site.netlify.app)**  
+🚀 **[Live Site](https://resonant-cobbler-cae48c.netlify.app/)**  
 🔒 **Note**: The source code is intentionally kept private to preserve design originality and prevent unauthorized reuse.
 
 ---
