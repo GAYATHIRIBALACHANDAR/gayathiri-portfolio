@@ -34,12 +34,6 @@ This is a fully responsive, my own customized animated portfolio website built t
 
 ---
 
-## 📸 Preview
-
-> Replace with a screenshot or link to a live demo video/gif if you want.
-
----
-
 ## 🧑‍🚀 About Me
 
 I’m Gayathiri, an aspiring software developer with a passion for creative UI/UX, web development, and blending aesthetics with logic. This portfolio is a representation of my journey and capabilities.
